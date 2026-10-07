@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 1: Sistema de Lotka-Volterra'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Marco '
+    family-names: Anaya
+    email: M26210090@tectijuana.edu.mx
+    affiliation: 'TecNM / It Tijuana '
+repository-code: 'https://github.com/Pan4quemado/MMP1'
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-06'
